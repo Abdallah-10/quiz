@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^reponse/([0-9]*) reponse.php?id=$1
